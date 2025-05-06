@@ -20,3 +20,8 @@ public :
     }
     //Lingkaran ol;
 };
+
+class Lingkaran
+{
+
+};
